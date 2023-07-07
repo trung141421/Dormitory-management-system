@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "room",
+    "jdbcUrl": "jdbc:mariadb://localhost:3306/room",
+    "dataSource.database": "room",
+    "dataSource.user": "root",
+    "dataSource.password": "141421"
+  }
+]
